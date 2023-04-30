@@ -1,0 +1,43 @@
+ 
+ body{
+    margin: 0;
+    color: #82a5ca;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+
+ }
+
+ .butn1 {
+
+   padding: 6px 12px;
+   background-color: white;
+   border: none;
+   font-family: inherit;
+   font-weight: bold;
+   color: #82a5ca;
+ }
+
+ .explr { 
+
+  border-bottom: 5px solid white;
+
+ }
+
+ #logo {
+width: 200px;
+
+ }
+
+ .three {
+
+background-image: url("galaxyy.gif");
+background-size: cover;
+padding-bottom: 475px;
+
+
+ }
+
+ .blur{
+
+  text-shadow: 0px 0px 10px gray;
+ }
